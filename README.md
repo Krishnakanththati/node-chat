@@ -7,6 +7,6 @@ Install dependencies
 
     npm install
 
-Start development server with hot reloading (open `http://0.0.0.0:4809/` and find your way through the directory listing)
+Start development server with hot reloading (open `http://localhost:3000/` and find your way through the directory listing)
 
     npm start
